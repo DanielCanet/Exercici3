@@ -1,0 +1,18 @@
+D:\fonts\Solid\Exercici3\Exercici3\bin\Debug\Exercici3.exe.config
+D:\fonts\Solid\Exercici3\Exercici3\obj\Debug\Exercici3.csprojResolveAssemblyReference.cache
+D:\fonts\Solid\Exercici3\Exercici3\bin\Debug\Exercici3.exe
+D:\fonts\Solid\Exercici3\Exercici3\bin\Debug\Exercici3.pdb
+D:\fonts\Solid\Exercici3\Exercici3\obj\Debug\Exercici3.exe
+D:\fonts\Solid\Exercici3\Exercici3\obj\Debug\Exercici3.pdb
+C:\Compartido\Exercici3\problema\Exercici3\bin\Debug\Exercici3.exe.config
+C:\Compartido\Exercici3\problema\Exercici3\obj\Debug\Exercici3.exe
+C:\Compartido\Exercici3\problema\Exercici3\obj\Debug\Exercici3.pdb
+C:\Compartido\Exercici3\problema\Exercici3\bin\Debug\Exercici3.exe
+C:\Compartido\Exercici3\problema\Exercici3\bin\Debug\Exercici3.pdb
+C:\Compartido\Exercici3\problema\Exercici3\obj\Debug\Exercici3.csprojResolveAssemblyReference.cache
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\bin\Debug\Exercici3.exe.config
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\obj\Debug\Exercici3.exe
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\obj\Debug\Exercici3.pdb
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\bin\Debug\Exercici3.exe
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\bin\Debug\Exercici3.pdb
+C:\Formacion\Coding Dojo\Exercici3\problema\Exercici3\obj\Debug\Exercici3.csprojResolveAssemblyReference.cache

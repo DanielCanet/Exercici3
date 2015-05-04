@@ -1,0 +1,5 @@
+C:\Formacion\Coding Dojo\Exercici3\problema\LinqPrueba\bin\Debug\LinqPrueba.exe.config
+C:\Formacion\Coding Dojo\Exercici3\problema\LinqPrueba\bin\Debug\LinqPrueba.exe
+C:\Formacion\Coding Dojo\Exercici3\problema\LinqPrueba\bin\Debug\LinqPrueba.pdb
+C:\Formacion\Coding Dojo\Exercici3\problema\LinqPrueba\obj\Debug\LinqPrueba.exe
+C:\Formacion\Coding Dojo\Exercici3\problema\LinqPrueba\obj\Debug\LinqPrueba.pdb
